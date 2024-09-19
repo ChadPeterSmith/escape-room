@@ -22,7 +22,7 @@ export default function HomePage() {
   const [correctPassword, setCorrectPassword] = useState('Peter'); // Default password
 
   // Admin access password
-  const adminAccessPassword = 'whap';
+  const adminAccessPassword = 'sam123';
 
 
   // Load the password from localStorage if window is available
