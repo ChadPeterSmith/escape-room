@@ -9,8 +9,9 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        'mad-scientist-bg': '#0d0d0d',   // Dark background
+        'mad-scientist-green': '#00ff41', // Neon green
+        'mad-scientist-purple': '#7209b7', // Eerie purple
       },
     },
   },
