@@ -97,7 +97,7 @@ export default function HomePage() {
       style={{ backgroundImage: `url(${backgroundImg.src})`, backgroundSize: 'cover' }}
     >
       <div className="text-center p-8 bg-mad-scientist-bg rounded-lg shadow-lg border border-mad-scientist-green">
-        <h2 className="text-4xl mb-4 text-mad-scientist-green">Dr. Heinrich's Lair</h2>
+        <h2 className="text-4xl mb-4 text-mad-scientist-green">Dr. Heinrich&apos;s Lair</h2>
         <p>Enter the password to escape the Mad Scientist!</p>
 
         {/* User password input */}
